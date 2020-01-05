@@ -20,7 +20,7 @@
   "dependencies": {
     "@hapi/hapi": "^18.4.0",
     "@hapi/inert": "^6.0.0",
-    "@hapi/joi": "^17.0.0",
+    "@hapi/joi": "^16.1.8",
     "@hapi/shot": "^4.1.2",
     "@hapi/vision": "^5.5.4",
     "dotenv": "^8.2.0",
