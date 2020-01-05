@@ -1,0 +1,35 @@
+{
+  "name": "srijanfizzbuss",
+  "version": "1.0.0",
+  "description": "Fizz Buzz algorithm",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "lab -I 'Reflect,core,_babelPolyfill,regeneratorRuntime,__core-js_shared__,__core-js_shared__'",
+    "start": "nodemon index.js"
+  },
+  "keywords": [
+    "Fizz",
+    "Buzz"
+  ],
+  "author": "Arpit",
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/hapi": "^18.4.0",
+    "@hapi/inert": "^6.0.0",
+    "@hapi/joi": "^17.0.0",
+    "@hapi/shot": "^4.1.2",
+    "@hapi/vision": "^5.5.4",
+    "dotenv": "^8.2.0",
+    "hapi-cors": "^1.0.3",
+    "hapi-swagger": "^11.1.0",
+    "qs": "^6.9.1"
+  },
+  "devDependencies": {
+    "@hapi/code": "^5.3.1",
+    "@hapi/lab": "^19.1.0"
+  }
+}
