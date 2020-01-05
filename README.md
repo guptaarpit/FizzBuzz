@@ -1,15 +1,15 @@
 # FizzBuzz
 Fizz Buzz Repository
 
-# Install nodemon
+## Install nodemon
 		npm i -g nodemon
 
-# Install Packages mentiond in Package.json
+## Install Packages mentiond in Package.json
 		npm i
 
-# Execute API
+## Execute API
 		npm start
 
 
-# Execute Test
+## Execute Test
 		npm test
